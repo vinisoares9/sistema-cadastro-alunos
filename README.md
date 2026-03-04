@@ -39,11 +39,11 @@ Aplicar conceitos fundamentais de:
 ## ▶ Como Executar
 
 1. Instale o Python 3
-2. Baixe o arquivo `CRUD.py`
+2. Baixe o arquivo `CRUD(cod_completo).py`
 3. Execute no terminal:
 
 ```bash
-python CRUD.py
+python CRUD(cod_completo).py
 ```
 
 ---
