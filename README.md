@@ -29,7 +29,7 @@ Aplicar conceitos fundamentais de:
 ## 📂 Estrutura do Projeto
 
 - CRUD(cod_completo).py → Arquivo principal da aplicação com o código completo. Contém a toda a lógica do CRUD e a interface gráfica em Tkinter.
-- gui.py → Arquivo que contém apenas a parte responsáavel pela interface gráfica, utilizando a biblioteca Tkinter.
+- gui.py → Arquivo que contém apenas a parte responsável pela interface gráfica, utilizando a biblioteca Tkinter.
 - poo.py → Arquivo que contém apenas a parte da lógica de negócio, feita com base em Programação Orientada a Objetos (POO)
 
 ## 📌 Funcionalidades
